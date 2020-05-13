@@ -1,0 +1,130 @@
+# Project exclude paths
+/.gradle/
+/Contacts/task/build/
+/Contacts/task/out/
+/Contacts/task/out/production/classes/
+/Contacts/task/out/test/classes/
+/Problems/Account/out/
+/Problems/Account/out/production/classes/
+/Problems/Account and its owner/out/
+/Problems/Account and its owner/out/production/classes/
+/Problems/Arithmetic average/out/
+/Problems/Arithmetic average/out/production/classes/
+/Problems/Arithmetic expression/out/
+/Problems/Arithmetic expression/out/production/classes/
+/Problems/Binary search/out/
+/Problems/Binary search/out/production/classes/
+/Problems/Book/out/
+/Problems/Book/out/production/classes/
+/Problems/Books/out/
+/Problems/Books/out/production/classes/
+/Problems/Check a number is positive/out/
+/Problems/Check a number is positive/out/production/classes/
+/Problems/Check burgs/out/
+/Problems/Check burgs/out/production/classes/
+/Problems/Check prefix ignoring the case/out/
+/Problems/Check prefix ignoring the case/out/production/classes/
+/Problems/Check the given numbers are different/out/
+/Problems/Check the given numbers are different/out/production/classes/
+/Problems/Check the value/out/
+/Problems/Check the value/out/production/classes/
+/Problems/Chocolate/out/
+/Problems/Chocolate/out/production/classes/
+/Problems/Compact strings with AsciiCharSequence/out/
+/Problems/Compact strings with AsciiCharSequence/out/production/classes/
+/Problems/Comparing strings ignoring whitespaces/out/
+/Problems/Comparing strings ignoring whitespaces/out/production/classes/
+/Problems/Complex/out/
+/Problems/Complex/out/production/classes/
+/Problems/Decrement all/out/
+/Problems/Decrement all/out/production/classes/
+/Problems/Difference of times/out/
+/Problems/Difference of times/out/production/classes/
+/Problems/Digits from 0 to 9 in a single line/out/
+/Problems/Digits from 0 to 9 in a single line/out/production/classes/
+/Problems/Division/out/
+/Problems/Division/out/production/classes/
+/Problems/Exactly one parameter is positive/out/
+/Problems/Exactly one parameter is positive/out/production/classes/
+/Problems/Extracting a substring/out/
+/Problems/Extracting a substring/out/production/classes/
+/Problems/Fill the declaration/out/
+/Problems/Fill the declaration/out/production/classes/
+/Problems/Find a word with a given length/out/
+/Problems/Find a word with a given length/out/production/classes/
+/Problems/Find mistake/out/
+/Problems/Find mistake/out/production/classes/
+/Problems/First, second, third/out/
+/Problems/First, second, third/out/production/classes/
+/Problems/Fix the program/out/
+/Problems/Fix the program/out/production/classes/
+/Problems/From 0 to 4/out/
+/Problems/From 0 to 4/out/production/classes/
+/Problems/Getting the fullname/out/
+/Problems/Getting the fullname/out/production/classes/
+/Problems/Guest list of a hotel/out/
+/Problems/Guest list of a hotel/out/production/classes/
+/Problems/Hello, Java/out/
+/Problems/Hello, Java/out/production/classes/
+/Problems/How many nuts each squirrel will get/out/
+/Problems/How many nuts each squirrel will get/out/production/classes/
+/Problems/In a box/out/
+/Problems/In a box/out/production/classes/
+/Problems/In the middle of a word/out/
+/Problems/In the middle of a word/out/production/classes/
+/Problems/Initializing an array of characters/out/
+/Problems/Initializing an array of characters/out/production/classes/
+/Problems/Initializing an array of integers/out/
+/Problems/Initializing an array of integers/out/production/classes/
+/Problems/Initializing an array of longs/out/
+/Problems/Initializing an array of longs/out/production/classes/
+/Problems/Invalid declaration of variables/out/
+/Problems/Invalid declaration of variables/out/production/classes/
+/Problems/Is between/out/
+/Problems/Is between/out/production/classes/
+/Problems/Leap year/out/
+/Problems/Leap year/out/production/classes/
+/Problems/Overloading methods/out/
+/Problems/Overloading methods/out/production/classes/
+/Problems/Preparing full name/out/
+/Problems/Preparing full name/out/production/classes/
+/Problems/Print/out/
+/Problems/Print/out/production/classes/
+/Problems/Print strings in the reverse order/out/
+/Problems/Print strings in the reverse order/out/production/classes/
+/Problems/Printing a magic letter/out/
+/Problems/Printing a magic letter/out/production/classes/
+/Problems/Printing each word in a new line/out/
+/Problems/Printing each word in a new line/out/production/classes/
+/Problems/Printing only the longest line/out/
+/Problems/Printing only the longest line/out/production/classes/
+/Problems/Printing strings in the same order/out/
+/Problems/Printing strings in the same order/out/production/classes/
+/Problems/Replacing 'a' with 'b'/out/
+/Problems/Replacing 'a' with 'b'/out/production/classes/
+/Problems/Size of parts/out/
+/Problems/Size of parts/out/production/classes/
+/Problems/Squirrels and nuts/out/
+/Problems/Squirrels and nuts/out/production/classes/
+/Problems/Sum of numbers in the range/out/
+/Problems/Sum of numbers in the range/out/production/classes/
+/Problems/The countdown/out/
+/Problems/The countdown/out/production/classes/
+/Problems/The Hello World program/out/
+/Problems/The Hello World program/out/production/classes/
+/Problems/The result of a Tic-Tac-Toe game/out/
+/Problems/The result of a Tic-Tac-Toe game/out/production/classes/
+/Problems/The roots of an equation/out/
+/Problems/The roots of an equation/out/production/classes/
+/Problems/The sign of a number/out/
+/Problems/The sign of a number/out/production/classes/
+/Problems/The sum of array elements/out/
+/Problems/The sum of array elements/out/production/classes/
+/Problems/Three numbers/out/
+/Problems/Three numbers/out/production/classes/
+/Problems/Uncomment a line/out/
+/Problems/Uncomment a line/out/production/classes/
+/Problems/Vowel or not/out/
+/Problems/Vowel or not/out/production/classes/
+/Problems/We need to learn Java/out/
+/Problems/We need to learn Java/out/production/classes/
