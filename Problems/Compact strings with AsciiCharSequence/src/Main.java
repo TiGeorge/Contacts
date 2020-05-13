@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 class AsciiCharSequence implements CharSequence {
     // implementation
     private byte[] value;
