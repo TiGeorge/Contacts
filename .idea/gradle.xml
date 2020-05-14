@@ -44,6 +44,8 @@
             <option value="$PROJECT_DIR$/Problems/Employees" />
             <option value="$PROJECT_DIR$/Problems/Exactly one parameter is positive" />
             <option value="$PROJECT_DIR$/Problems/Extracting a substring" />
+            <option value="$PROJECT_DIR$/Problems/Extracting big numbers from a text" />
+            <option value="$PROJECT_DIR$/Problems/Extracting words from a text" />
             <option value="$PROJECT_DIR$/Problems/Fill the declaration" />
             <option value="$PROJECT_DIR$/Problems/Find a word with a given length" />
             <option value="$PROJECT_DIR$/Problems/Find mistake" />
@@ -83,6 +85,7 @@
             <option value="$PROJECT_DIR$/Problems/Publications" />
             <option value="$PROJECT_DIR$/Problems/Replacing 'a' with 'b'" />
             <option value="$PROJECT_DIR$/Problems/Return empty string when argument is null" />
+            <option value="$PROJECT_DIR$/Problems/Safe converting" />
             <option value="$PROJECT_DIR$/Problems/Saying animals" />
             <option value="$PROJECT_DIR$/Problems/Shapes area" />
             <option value="$PROJECT_DIR$/Problems/Size of parts" />
