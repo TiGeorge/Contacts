@@ -13,11 +13,11 @@ public class Main {
         for (Integer i : array) {
             closest = Math.min(Math.abs(n - i), closest);
         }
-
+        
         final int closestFin = closest;
         List<Integer> collect = array.stream().filter(e -> Math.abs(n - e) == closestFin)
                 .sorted().collect(Collectors.toList());
+                
         collect.forEach(e -> System.out.print(e + " "));
-
     }
 }
