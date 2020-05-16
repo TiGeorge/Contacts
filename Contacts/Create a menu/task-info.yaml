@@ -271,6 +271,12 @@ files:
         }
     }
   learner_created: true
+- name: src/contacts/Organization.java
+  visible: true
+  learner_created: true
+- name: src/contacts/Person.java
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/43/stages/229/implement
 status: Solved
 record: 2
