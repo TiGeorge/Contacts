@@ -1,10 +1,12 @@
 package contacts;
 
-public class PhoneBook {
-    //Contact[] contacts = new Contact[10];
-    Contact contact;
+import java.util.ArrayList;
+import java.util.List;
 
-    public PhoneBook(Contact contact) {
-        this.contact = contact;
+public class PhoneBook {
+    private List<Contact> contacts = new ArrayList<>();
+
+    public List<Contact> getContacts() {
+        return contacts;
     }
 }
